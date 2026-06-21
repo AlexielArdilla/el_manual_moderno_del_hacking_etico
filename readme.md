@@ -1,3 +1,5 @@
+![`Portada`](portada.png)
+
 # El Manual Moderno del Hacking Ético
 ## Alejandro G Vera
 
