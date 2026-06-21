@@ -121,8 +121,6 @@ Capítulo 30 Plan de carrera y laboratorio permanente: Cierra con una ruta de es
 
 ---
 
-Aquí va el **Capítulo 1** completo, con enfoque técnico, práctico y ético.
-
 # Capítulo 1
 
 # El mapa completo del Ethical Hacking moderno
